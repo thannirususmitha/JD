@@ -1,0 +1,730 @@
+{
+  "extraction_results": [
+    {
+      "job_id": 1,
+      "role": "Data Analyst",
+      "location": "Hyderabad",
+      "experience": "0-2 years",
+      "extracted_technologies": {
+        "languages": [
+          {
+            "name": "Python",
+            "count": 1,
+            "matched_variations": [
+              "python"
+            ]
+          },
+          {
+            "name": "SQL",
+            "count": 1,
+            "matched_variations": [
+              "sql"
+            ]
+          }
+        ],
+        "databases": [
+          {
+            "name": "MySQL",
+            "count": 1,
+            "matched_variations": [
+              "mysql"
+            ]
+          },
+          {
+            "name": "PostgreSQL",
+            "count": 1,
+            "matched_variations": [
+              "postgresql"
+            ]
+          },
+          {
+            "name": "MongoDB",
+            "count": 1,
+            "matched_variations": [
+              "mongodb"
+            ]
+          }
+        ],
+        "cloud": [
+          {
+            "name": "Power BI",
+            "count": 2,
+            "matched_variations": [
+              "power bi"
+            ]
+          }
+        ],
+        "data_engineering": [
+          {
+            "name": "ETL",
+            "count": 1,
+            "matched_variations": [
+              "etl"
+            ]
+          }
+        ],
+        "data_analysis": [
+          {
+            "name": "Pandas",
+            "count": 1,
+            "matched_variations": [
+              "pandas"
+            ]
+          },
+          {
+            "name": "NumPy",
+            "count": 1,
+            "matched_variations": [
+              "numpy"
+            ]
+          },
+          {
+            "name": "Matplotlib",
+            "count": 1,
+            "matched_variations": [
+              "matplotlib"
+            ]
+          },
+          {
+            "name": "Tableau",
+            "count": 1,
+            "matched_variations": [
+              "tableau"
+            ]
+          },
+          {
+            "name": "Excel",
+            "count": 1,
+            "matched_variations": [
+              "excel"
+            ]
+          },
+          {
+            "name": "Statistics",
+            "count": 1,
+            "matched_variations": [
+              "statistics"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "job_id": 2,
+      "role": "Python Developer",
+      "location": "Bangalore",
+      "experience": "1-3 years",
+      "extracted_technologies": {
+        "languages": [
+          {
+            "name": "Python",
+            "count": 2,
+            "matched_variations": [
+              "python"
+            ]
+          }
+        ],
+        "web_frameworks": [
+          {
+            "name": "Django",
+            "count": 1,
+            "matched_variations": [
+              "django"
+            ]
+          },
+          {
+            "name": "Flask",
+            "count": 1,
+            "matched_variations": [
+              "flask"
+            ]
+          },
+          {
+            "name": "FastAPI",
+            "count": 1,
+            "matched_variations": [
+              "fastapi"
+            ]
+          }
+        ],
+        "databases": [
+          {
+            "name": "PostgreSQL",
+            "count": 1,
+            "matched_variations": [
+              "postgresql"
+            ]
+          },
+          {
+            "name": "MongoDB",
+            "count": 1,
+            "matched_variations": [
+              "mongodb"
+            ]
+          },
+          {
+            "name": "SQLite",
+            "count": 1,
+            "matched_variations": [
+              "sqlite"
+            ]
+          }
+        ],
+        "cloud": [
+          {
+            "name": "AWS",
+            "count": 1,
+            "matched_variations": [
+              "aws"
+            ]
+          },
+          {
+            "name": "Azure",
+            "count": 1,
+            "matched_variations": [
+              "azure"
+            ]
+          }
+        ],
+        "devops": [
+          {
+            "name": "Docker",
+            "count": 1,
+            "matched_variations": [
+              "docker"
+            ]
+          },
+          {
+            "name": "Git",
+            "count": 1,
+            "matched_variations": [
+              "git"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "job_id": 3,
+      "role": "Machine Learning Engineer",
+      "location": "Remote",
+      "experience": "0-3 years",
+      "extracted_technologies": {
+        "languages": [
+          {
+            "name": "Python",
+            "count": 1,
+            "matched_variations": [
+              "python"
+            ]
+          }
+        ],
+        "cloud": [
+          {
+            "name": "AWS",
+            "count": 1,
+            "matched_variations": [
+              "aws"
+            ]
+          },
+          {
+            "name": "Amazon SageMaker",
+            "count": 1,
+            "matched_variations": [
+              "sagemaker"
+            ]
+          },
+          {
+            "name": "Google Cloud",
+            "count": 1,
+            "matched_variations": [
+              "google cloud"
+            ]
+          }
+        ],
+        "ml_ai": [
+          {
+            "name": "TensorFlow",
+            "count": 1,
+            "matched_variations": [
+              "tensorflow"
+            ]
+          },
+          {
+            "name": "PyTorch",
+            "count": 1,
+            "matched_variations": [
+              "pytorch"
+            ]
+          },
+          {
+            "name": "Scikit-Learn",
+            "count": 1,
+            "matched_variations": [
+              "scikit-learn"
+            ]
+          },
+          {
+            "name": "Keras",
+            "count": 1,
+            "matched_variations": [
+              "keras"
+            ]
+          },
+          {
+            "name": "Deep Learning",
+            "count": 1,
+            "matched_variations": [
+              "deep learning"
+            ]
+          },
+          {
+            "name": "NLP",
+            "count": 1,
+            "matched_variations": [
+              "nlp"
+            ]
+          }
+        ],
+        "devops": [
+          {
+            "name": "Git",
+            "count": 1,
+            "matched_variations": [
+              "git"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "job_id": 4,
+      "role": "Full-Stack Developer",
+      "location": "Chennai",
+      "experience": "1-4 years",
+      "extracted_technologies": {
+        "languages": [
+          {
+            "name": "JavaScript",
+            "count": 1,
+            "matched_variations": [
+              "javascript"
+            ]
+          }
+        ],
+        "web_frameworks": [
+          {
+            "name": "React",
+            "count": 1,
+            "matched_variations": [
+              "react"
+            ]
+          },
+          {
+            "name": "Angular",
+            "count": 1,
+            "matched_variations": [
+              "angular"
+            ]
+          },
+          {
+            "name": "Node.js",
+            "count": 1,
+            "matched_variations": [
+              "nodejs"
+            ]
+          },
+          {
+            "name": "Express.js",
+            "count": 1,
+            "matched_variations": [
+              "expressjs"
+            ]
+          }
+        ],
+        "databases": [
+          {
+            "name": "MySQL",
+            "count": 1,
+            "matched_variations": [
+              "mysql"
+            ]
+          },
+          {
+            "name": "MongoDB",
+            "count": 1,
+            "matched_variations": [
+              "mongodb"
+            ]
+          },
+          {
+            "name": "Firebase",
+            "count": 1,
+            "matched_variations": [
+              "firebase"
+            ]
+          }
+        ],
+        "cloud": [
+          {
+            "name": "AWS",
+            "count": 1,
+            "matched_variations": [
+              "aws"
+            ]
+          },
+          {
+            "name": "Azure",
+            "count": 1,
+            "matched_variations": [
+              "azure"
+            ]
+          }
+        ],
+        "devops": [
+          {
+            "name": "Docker",
+            "count": 1,
+            "matched_variations": [
+              "docker"
+            ]
+          },
+          {
+            "name": "CI/CD",
+            "count": 1,
+            "matched_variations": [
+              "cicd"
+            ]
+          }
+        ],
+        "frontend": [
+          {
+            "name": "HTML",
+            "count": 1,
+            "matched_variations": [
+              "html"
+            ]
+          },
+          {
+            "name": "CSS",
+            "count": 1,
+            "matched_variations": [
+              "css"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "job_id": 5,
+      "role": "Cloud Engineer",
+      "location": "Pune",
+      "experience": "0-3 years",
+      "extracted_technologies": {
+        "languages": [
+          {
+            "name": "Python",
+            "count": 1,
+            "matched_variations": [
+              "python"
+            ]
+          },
+          {
+            "name": "Bash",
+            "count": 1,
+            "matched_variations": [
+              "bash"
+            ]
+          }
+        ],
+        "cloud": [
+          {
+            "name": "AWS",
+            "count": 1,
+            "matched_variations": [
+              "aws"
+            ]
+          },
+          {
+            "name": "Amazon EC2",
+            "count": 1,
+            "matched_variations": [
+              "ec2"
+            ]
+          },
+          {
+            "name": "Amazon S3",
+            "count": 1,
+            "matched_variations": [
+              "s3"
+            ]
+          },
+          {
+            "name": "AWS Lambda",
+            "count": 1,
+            "matched_variations": [
+              "lambda"
+            ]
+          },
+          {
+            "name": "AWS IAM",
+            "count": 1,
+            "matched_variations": [
+              "iam"
+            ]
+          },
+          {
+            "name": "Azure",
+            "count": 1,
+            "matched_variations": [
+              "azure"
+            ]
+          },
+          {
+            "name": "Google Cloud",
+            "count": 1,
+            "matched_variations": [
+              "google cloud"
+            ]
+          }
+        ],
+        "devops": [
+          {
+            "name": "Docker",
+            "count": 1,
+            "matched_variations": [
+              "docker"
+            ]
+          },
+          {
+            "name": "Kubernetes",
+            "count": 1,
+            "matched_variations": [
+              "kubernetes"
+            ]
+          },
+          {
+            "name": "Terraform",
+            "count": 1,
+            "matched_variations": [
+              "terraform"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_jobs_analyzed": 5,
+    "unique_technologies_found": 45,
+    "top_technologies": [
+      {
+        "name": "Python",
+        "count": 5
+      },
+      {
+        "name": "AWS",
+        "count": 4
+      },
+      {
+        "name": "MongoDB",
+        "count": 3
+      },
+      {
+        "name": "Azure",
+        "count": 3
+      },
+      {
+        "name": "Docker",
+        "count": 3
+      },
+      {
+        "name": "MySQL",
+        "count": 2
+      },
+      {
+        "name": "PostgreSQL",
+        "count": 2
+      },
+      {
+        "name": "Power BI",
+        "count": 2
+      },
+      {
+        "name": "Git",
+        "count": 2
+      },
+      {
+        "name": "Google Cloud",
+        "count": 2
+      },
+      {
+        "name": "SQL",
+        "count": 1
+      },
+      {
+        "name": "ETL",
+        "count": 1
+      },
+      {
+        "name": "Pandas",
+        "count": 1
+      },
+      {
+        "name": "NumPy",
+        "count": 1
+      },
+      {
+        "name": "Matplotlib",
+        "count": 1
+      },
+      {
+        "name": "Tableau",
+        "count": 1
+      },
+      {
+        "name": "Excel",
+        "count": 1
+      },
+      {
+        "name": "Statistics",
+        "count": 1
+      },
+      {
+        "name": "Django",
+        "count": 1
+      },
+      {
+        "name": "Flask",
+        "count": 1
+      }
+    ],
+    "technologies_by_category": {
+      "languages": {
+        "Python": 5,
+        "SQL": 1,
+        "JavaScript": 1,
+        "Bash": 1
+      },
+      "databases": {
+        "MongoDB": 3,
+        "MySQL": 2,
+        "PostgreSQL": 2,
+        "SQLite": 1,
+        "Firebase": 1
+      },
+      "cloud": {
+        "AWS": 4,
+        "Azure": 3,
+        "Power BI": 2,
+        "Google Cloud": 2,
+        "Amazon SageMaker": 1,
+        "Amazon EC2": 1,
+        "Amazon S3": 1,
+        "AWS Lambda": 1,
+        "AWS IAM": 1
+      },
+      "data_engineering": {
+        "ETL": 1
+      },
+      "data_analysis": {
+        "Pandas": 1,
+        "NumPy": 1,
+        "Matplotlib": 1,
+        "Tableau": 1,
+        "Excel": 1,
+        "Statistics": 1
+      },
+      "web_frameworks": {
+        "Django": 1,
+        "Flask": 1,
+        "FastAPI": 1,
+        "React": 1,
+        "Angular": 1,
+        "Node.js": 1,
+        "Express.js": 1
+      },
+      "devops": {
+        "Docker": 3,
+        "Git": 2,
+        "CI/CD": 1,
+        "Kubernetes": 1,
+        "Terraform": 1
+      },
+      "ml_ai": {
+        "TensorFlow": 1,
+        "PyTorch": 1,
+        "Scikit-Learn": 1,
+        "Keras": 1,
+        "Deep Learning": 1,
+        "NLP": 1
+      },
+      "frontend": {
+        "HTML": 1,
+        "CSS": 1
+      }
+    },
+    "technologies_by_role": {
+      "Data Analyst": {
+        "Power BI": 2,
+        "Python": 1,
+        "SQL": 1,
+        "MySQL": 1,
+        "PostgreSQL": 1,
+        "MongoDB": 1,
+        "ETL": 1,
+        "Pandas": 1,
+        "NumPy": 1,
+        "Matplotlib": 1
+      },
+      "Python Developer": {
+        "Python": 2,
+        "Django": 1,
+        "Flask": 1,
+        "FastAPI": 1,
+        "PostgreSQL": 1,
+        "MongoDB": 1,
+        "SQLite": 1,
+        "AWS": 1,
+        "Azure": 1,
+        "Docker": 1
+      },
+      "Machine Learning Engineer": {
+        "Python": 1,
+        "AWS": 1,
+        "Amazon SageMaker": 1,
+        "Google Cloud": 1,
+        "TensorFlow": 1,
+        "PyTorch": 1,
+        "Scikit-Learn": 1,
+        "Keras": 1,
+        "Deep Learning": 1,
+        "NLP": 1
+      },
+      "Full-Stack Developer": {
+        "JavaScript": 1,
+        "React": 1,
+        "Angular": 1,
+        "Node.js": 1,
+        "Express.js": 1,
+        "MySQL": 1,
+        "MongoDB": 1,
+        "Firebase": 1,
+        "AWS": 1,
+        "Azure": 1
+      },
+      "Cloud Engineer": {
+        "Python": 1,
+        "Bash": 1,
+        "AWS": 1,
+        "Amazon EC2": 1,
+        "Amazon S3": 1,
+        "AWS Lambda": 1,
+        "AWS IAM": 1,
+        "Azure": 1,
+        "Google Cloud": 1,
+        "Docker": 1
+      }
+    }
+  }
+}
